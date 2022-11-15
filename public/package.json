@@ -1,0 +1,23 @@
+{
+  "name": "verbum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopaulo02/verbum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/joaopaulo02/verbum/issues"
+  },
+  "homepage": "https://github.com/joaopaulo02/verbum#readme"
+}
