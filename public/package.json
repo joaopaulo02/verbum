@@ -1,8 +1,8 @@
 {
   "name": "verbum",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "project for game maker.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/joaopaulo02/verbum.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "João Paulo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "14.15.1"
   },
   "bugs": {
     "url": "https://github.com/joaopaulo02/verbum/issues"
